@@ -25,24 +25,39 @@
 
 ## 주요 기능
 ### 1. 알람: 여러 개의 알람을 생성하고 관리할 수 있다.
-![alarm](deliverables/imgs/주요기능_1.png)
+
+(1) 알람생성
+
+<img src="README.assets/알람생성.gif" alt="알람생성" style="zoom:25%;" />
+
+(2) 알람삭제
+
+<img src="README.assets/알람삭제.gif" alt="알람삭제" style="zoom:25%;" />
 
 ### 2. 미션: 알람이 작동하면 랜덤 미션이 시작되고 조건을 달성해야만 알람이 종료된다.
+
+![알람작동](README.assets/알람작동.gif)
+
 #### (1) 사진 찍기
 
-![mission_1](deliverables/imgs/주요기능_2.png)
+<img src="README.assets/랜덤사물찍기미션.gif" alt="랜덤사물찍기미션" style="zoom:25%;" />
+
 #### (2) 가위바위보
 
-![mission_2](deliverables/imgs/주요기능_3.png)
+<img src="README.assets/가위바위보.gif" alt="가위바위보" style="zoom:25%;" />
+
 #### (3) 수학 문제
 
-![mission_3](deliverables/imgs/주요기능_4.png)
+<img src="README.assets/수학문제미션.gif" alt="수학문제미션" style="zoom:25%;" />
+
 #### (4) 카드 게임
 
-![mission_4](deliverables/imgs/주요기능_5.png)
+<img src="README.assets/카드미션.gif" alt="카드미션" style="zoom:25%;" />
+
+
 
 ## 개발 일정
-![plan](deliverables/imgs/개발일정.png)
+![개발일정.png](README.assets/개발일정.png)
 
 
 ## 역할
