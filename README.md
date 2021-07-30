@@ -28,7 +28,7 @@
 
 (1) 알람생성
 
-<img src="README.assets/알람생성.gif" alt="알람생성" style="zoom:5%;" />
+<img src="README.assets/알람생성.gif" alt="알람생성" style="zoom:25%;" />
 
 (2) 알람삭제
 
